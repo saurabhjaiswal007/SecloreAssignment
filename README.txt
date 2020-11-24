@@ -6,3 +6,5 @@ Prerequisite for using the script:
 
     ec2_access_key: "Please enter aws_access_key of Ansible user"
     ec2_secret_key: "Please enter aws_secret_key of Ansible user"
+
+3- Execute: ansible-playbook Seclore_AWS.yml 
